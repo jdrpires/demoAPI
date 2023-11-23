@@ -11,4 +11,8 @@
   "profile": {
     "name": "typicode"
   }
+  
+  "cenario2": [
+    { "product_code": 1, "subproduct_code:" 1, "subcontract_condition:" 2}
+  ]
 }
